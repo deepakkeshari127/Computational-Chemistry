@@ -1,4 +1,4 @@
-# Computational-Chemistry
+# Computational-Chemistry Project : Quatum Harmonic Oscillator
 
 - Created Harmonic Oscillator Eigen states with analytical approach using Hermite Polynomial function in python.
 
