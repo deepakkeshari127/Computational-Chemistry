@@ -19,7 +19,7 @@
 
 
 
-# **Plot of Probability densities of harmonic oscillator**
+# **Plot of the potential energy function and energy levels**
 
 ---
 
