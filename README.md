@@ -12,10 +12,9 @@
 
 
 # **Comparision of the Classical and Quantum Harmonic Results**
-
-
 ---
-![image](https://user-images.githubusercontent.com/45884286/190377492-6a1d0fb5-bf93-4917-ba2b-0c6971fe026e.png)
+
+![image](https://user-images.githubusercontent.com/45884286/190377650-372c7cea-d892-4232-9b7e-705d1a815fd0.png)
 
 ![image](https://user-images.githubusercontent.com/45884286/190375761-a3424f9c-d78a-4508-810b-2aea692c02e1.png)
 
